@@ -1,2 +1,3 @@
+
 # Brain Tumor Detection Using MRI
- Brain Tumor Detection Using MRI Scans(Using CNN)
+Brain Tumor Detection Using MRI Scans (Using CNN)
